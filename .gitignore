@@ -9,3 +9,9 @@ build
 # misc
 .DS_Store
 npm-debug.log
+
+# typings definitions (used with VS Code)
+typings
+
+# jsconfig for intellisense in VS Code
+jsconfig.json
